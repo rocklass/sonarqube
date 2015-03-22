@@ -1,3 +1,3 @@
 #SonarQube
 
-This a Docker image to deploy quickly a SonarQube server. It includes also a MySQL database already configured.
+This is a Docker image to deploy quickly a SonarQube server. It includes also a MySQL database already configured.
