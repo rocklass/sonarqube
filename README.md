@@ -4,6 +4,6 @@ This is a Docker image to deploy quickly a SonarQube server. It includes also a 
 
 To pull it : `docker pull rocklass/sonarqube`
 
-To run it : `docker run -p 9000:9000 rocklass/sonarqube`
+To run it : `docker run -p 9000:9000 -p 3306:3306 rocklass/sonarqube`
 
 More information [here](https://registry.hub.docker.com/u/rocklass/sonarqube/)
